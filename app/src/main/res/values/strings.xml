@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteControlEsp8266</string>
+    <string name="name_esp8266">ESP8266</string>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Влажность</string>
+    <string name="name_servo">Сервопривод</string>
+</resources>
